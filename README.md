@@ -1,5 +1,5 @@
 # Coursera-Mathematics-for-Machine-Learning
-Coursera – Mathematics for Machine Learning: Linear Algebra (Imperial College London) 
+Coursera – Mathematics for Machine Learning (Imperial College London) 
 
 The GitHub repository contains the following programming assignments: 
 
